@@ -86,8 +86,8 @@ work-process:
 skills-title: Skills
 skills:
   - { name: Web Design, color: "#fdb157", value: "90%" }
-  - { name: Figma, color: "#9473e6", value: "80%" }
-  - { name: Adobe XD, color: "#bdecf6", value: "75%" }
+  - { name: Figma/Adobe XD, color: "#9473e6", value: "80%" }
+  - { name: HTML/CSS, color: "#bdecf6", value: "70%" }
   - { name: Photoshop, color: "#ffbcaa", value: "80%" }
 
 #-------------------------------
