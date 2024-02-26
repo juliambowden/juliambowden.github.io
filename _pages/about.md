@@ -8,7 +8,7 @@ signature: assets/images/about/jb_signature.png
 
 Hi, there! My name is Julia Bowden.
 
-I am a passionate and dedicated professional with a diverse background in communications, web design, education, customer service, and public service. I'm committed to making a positive impact through effective communication, creative problem-solving, and cultivating meaningful connections. I thrive on creative challenges and have a proven track record of delivering exceptional results in various roles throughout my professional career.
+I'm a passionate and dedicated professional with a diverse background in communications, web design, education, customer service, and public service. I'm committed to making a positive impact through effective communication, creative problem-solving, and cultivating meaningful connections. I thrive on creative challenges and have a proven track record of delivering exceptional results in various roles throughout my professional career.
 
 I currently work as a Communications Assistant at The Johns Hopkins University School of Medicine, where I contribute to and maintain the Fertig Lab, Division of Quantitative Sciences, and Convergence Institute's web presence. My responsibilities include website development/management, boosting online engagement and brand visibility, collaborating on project plans, and performing quality checks of work by reviewing with staff and students. Through my proficiency with GitHub and WordPress, I help ensure that all online presences are user-friendly and accessible while aligning with project goals. Through this position, I've utilized and honed my skills in HTML, CSS, Markdown, Figma, Canva, and Photoshop.
 
