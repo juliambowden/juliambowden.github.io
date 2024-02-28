@@ -8,7 +8,7 @@ author: juliambowden
 description: The personal website for Julia Bowden
 email: juliabowden6781@gmail.com
 # phone: (410) 382-2025
-# address: 125/A, CA Commercial Area, California, USA
+# address:
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -35,7 +35,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Julia,<br>a Communications Professional with an interest in web/UX Design.
+  hero-title: Hi! I’m <br> Julia,<br>a Communications Professional with an interest in Web/UX Design.
 
 social:
   - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/jmbowden/" }
@@ -297,4 +297,4 @@ portfolio-items:
 # Contact Section
 
 contact-title: Email
-contact-email: <a href="mailto:juliabowden6781@gmail.com">juliabowden6781@gmail.com</a>
+contact-email: juliabowden6781@gmail.com
