@@ -296,5 +296,5 @@ portfolio-items:
 #-------------------------------
 # Contact Section
 
-contact-title: Contact Info
-contact-email: juliabowden6781@gmail.com
+contact-title: Email
+contact-email: <a href="mailto:juliabowden6781@gmail.com">juliabowden6781@gmail.com</a>
