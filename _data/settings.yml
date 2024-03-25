@@ -181,9 +181,12 @@ portfolio-home-items:
   - image: "assets/images/portfolio/FertigLabSite.png"
     url: "https://fertiglab.github.io/"
 
+  - image: "assets/images/portfolio/PortfolioSite.png"
+    url: "https://juliambowden.github.io"
+
   - image: "assets/images/portfolio/GoodTixPreview.png"
     url: "https://www.figma.com/proto/jxPsNRIFx6L3ASHJLx8Y1W/GoodTix-App-Designs?type=design&node-id=362-1642&t=kVDnXd11eeUci7HG-1&scaling=scale-down&page-id=362%3A1641&starting-point-node-id=362%3A1642&mode=design"
-
+    
 # Portfolio Page
 portfolio-label:
   - { title: "UI/UX Design", type: "design" }
@@ -212,32 +215,15 @@ portfolio-items:
     portfolio-type:
       - type: "design"
 
-  - image: "assets/images/portfolio/item-8.png"
-    url: "#"
+  - image: "assets/images/portfolio/PortfolioSite.png"
+    url: "https://juliambowden.github.io"
     portfolio-type:
-      - type: "illustration"
+      - type: "design"
 
   - image: "assets/images/portfolio/GoodTixPreview.png"
     url: "https://www.figma.com/proto/jxPsNRIFx6L3ASHJLx8Y1W/GoodTix-App-Designs?type=design&node-id=362-1642&t=kVDnXd11eeUci7HG-1&scaling=scale-down&page-id=362%3A1641&starting-point-node-id=362%3A1642&mode=design"
     portfolio-type:
       - type: "design"
-
-  - image: "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-7.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
 
 #-------------------------------
 # Testimonials Section
