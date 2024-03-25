@@ -170,7 +170,7 @@ education:
 # Portfolio Home Section
 portfolio-home-items:
   - image: "assets/images/portfolio/item-1.png"
-    url: "https://www.figma.com/proto/ghnfZCvGlBR4Wo4BAKKq48/v2-Test-Site?type=design&node-id=42-7&t=LgFl1eOryAr6xFpY-1&scaling=min-zoom&page-id=42%3A2&mode=design"
+    url: "https://www.figma.com/proto/ghnfZCvGlBR4Wo4BAKKq48/v2-Test-Site?type=design&node-id=42-7&t=8BDkpLPj2Ajw7NNs-8&scaling=min-zoom&page-id=42%3A2&hide-ui=1"
 
   - image: "assets/images/portfolio/item-2.png"
     url: "#"
@@ -181,8 +181,8 @@ portfolio-home-items:
   - image: "assets/images/portfolio/item-4.png"
     url: "#"
 
-  - image: "assets/images/portfolio/item-5.png"
-    url: "#"
+  - image: "assets/images/portfolio/GoodTixPreview.png"
+    url: "https://www.figma.com/proto/jxPsNRIFx6L3ASHJLx8Y1W/GoodTix-App-Designs?type=design&node-id=362-1642&t=kVDnXd11eeUci7HG-1&scaling=scale-down&page-id=362%3A1641&starting-point-node-id=362%3A1642&mode=design"
 
 # Portfolio Page
 portfolio-label:
@@ -217,8 +217,8 @@ portfolio-items:
     portfolio-type:
       - type: "illustration"
 
-  - image: "assets/images/portfolio/item-5.png"
-    url: "#"
+  - image: "assets/images/portfolio/GoodTixPreview.png"
+    url: "https://www.figma.com/proto/jxPsNRIFx6L3ASHJLx8Y1W/GoodTix-App-Designs?type=design&node-id=362-1642&t=kVDnXd11eeUci7HG-1&scaling=scale-down&page-id=362%3A1641&starting-point-node-id=362%3A1642&mode=design"
     portfolio-type:
       - type: "design"
 
