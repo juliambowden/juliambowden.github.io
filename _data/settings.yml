@@ -169,7 +169,7 @@ education:
 
 # Portfolio Home Section
 portfolio-home-items:
-  - image: "assets/images/portfolio/item-1.png"
+  - image: "assets/images/portfolio/ConvergenceSite.png"
     url: "https://www.figma.com/proto/ghnfZCvGlBR4Wo4BAKKq48/v2-Test-Site?type=design&node-id=42-7&t=8BDkpLPj2Ajw7NNs-8&scaling=min-zoom&page-id=42%3A2&hide-ui=1"
 
   - image: "assets/images/portfolio/CoGAPSGuide.png"
@@ -185,7 +185,7 @@ portfolio-home-items:
     url: "https://www.figma.com/proto/jxPsNRIFx6L3ASHJLx8Y1W/GoodTix-App-Designs?type=design&node-id=362-1642&t=kVDnXd11eeUci7HG-1&scaling=scale-down&page-id=362%3A1641&starting-point-node-id=362%3A1642&mode=design"
 
   - image: "assets/images/portfolio/GoodTixCaseStudy.png"
-    url: "https://www.behance.net/gallery/156638735/GoodTix-Case-Study/modules/883722653"
+    url: "https://www.behance.net/gallery/156638735/GoodTix-Case-Study"
     
 # Portfolio Page
 portfolio-label:
@@ -203,12 +203,6 @@ portfolio-items:
     url: "https://fertiglab.github.io/CoGAPSGuide/"
     portfolio-type:
       - type: "design"
-
- - image: "assets/images/portfolio/CRCLogo.png"
-   url: "https://i.imgur.com/bUgJsQs.png"
-   portfolio-type:
-     - type: "illustration"
-     - type: "branding"
 
   - image: "assets/images/portfolio/FertigLabSite.png"
     url: "https://fertiglab.github.io/"
