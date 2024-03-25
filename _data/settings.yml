@@ -202,12 +202,6 @@ portfolio-items:
     portfolio-type:
       - type: "design"
 
-  - image: "assets/images/portfolio/CRCLogo.png"
-    url: "https://i.imgur.com/B5d9yyw.png"
-    portfolio-type:
-      - type: "branding"
-      - type: "illustration"
-
   - image: "assets/images/portfolio/CoGAPSGuide.png"
     url: "https://fertiglab.github.io/CoGAPSGuide/"
     portfolio-type:
