@@ -9,7 +9,7 @@ description: The personal website for Julia Bowden
 email: juliabowden6781@gmail.com
 # phone: (410) 382-2025
 # address:
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by Getjekyllthemes.
 
 menu:
   - { name: About, link: "/about" }
@@ -35,7 +35,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Julia, a Communications Professional & Web Designer.
+  hero-title: Hi! I’m <br> Julia, a Communications <br>Professional & Web Designer.
 
 social:
   - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/jmbowden/" }
