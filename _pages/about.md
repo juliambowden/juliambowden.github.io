@@ -26,4 +26,4 @@ When I'm not working, I love playing video games and going to the local theater 
 
 Each step of my journey has shaped my ability to approach challenges with resilience, creativity, and a dedication to making a difference. Thank you for visiting my website, and I look forward to connecting with you!
 
-View my portfolio here: [Notion Potfolio Page](https://www.notion.so/juliambowden/Julia-Bowden-s-Portfolio-33390756769d4e8da59bdcc24db1ac23)
+View my portfolio here: <a href="https://www.notion.so/juliambowden/Julia-Bowden-s-Portfolio-33390756769d4e8da59bdcc24db1ac23" target="_blank">Notion Portfolio Page</a>
