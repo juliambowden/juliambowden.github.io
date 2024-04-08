@@ -168,61 +168,61 @@ education:
 # Portfolio (Section and Page)
 
 # Portfolio Home Section
-portfolio-home-items:
-  - image: "assets/images/portfolio/ConvergenceSite.png"
-    url: "https://www.figma.com/proto/ghnfZCvGlBR4Wo4BAKKq48/v2-Test-Site?type=design&node-id=42-7&t=8BDkpLPj2Ajw7NNs-8&scaling=min-zoom&page-id=42%3A2&hide-ui=1"
+# portfolio-home-items:
+#   - image: "assets/images/portfolio/ConvergenceSite.png"
+#     url: "https://www.figma.com/proto/ghnfZCvGlBR4Wo4BAKKq48/v2-Test-Site?type=design&node-id=42-7&t=8BDkpLPj2Ajw7NNs-8&scaling=min-zoom&page-id=42%3A2&hide-ui=1"
 
-  - image: "assets/images/portfolio/CoGAPSGuide.png"
-    url: "https://fertiglab.github.io/CoGAPSGuide/"
+#   - image: "assets/images/portfolio/CoGAPSGuide.png"
+#     url: "https://fertiglab.github.io/CoGAPSGuide/"
 
-  - image: "assets/images/portfolio/FertigLabSite.png"
-    url: "https://fertiglab.github.io/"
+#   - image: "assets/images/portfolio/FertigLabSite.png"
+#     url: "https://fertiglab.github.io/"
 
-  - image: "assets/images/portfolio/QSSite.png"
-    url: "https://oncologyqs.jhmi.edu/"
+#   - image: "assets/images/portfolio/QSSite.png"
+#     url: "https://oncologyqs.jhmi.edu/"
 
-  - image: "assets/images/portfolio/GoodTixPreview.png"
-    url: "https://www.figma.com/proto/jxPsNRIFx6L3ASHJLx8Y1W/GoodTix-App-Designs?type=design&node-id=362-1642&t=kVDnXd11eeUci7HG-1&scaling=scale-down&page-id=362%3A1641&starting-point-node-id=362%3A1642&mode=design"
+#   - image: "assets/images/portfolio/GoodTixPreview.png"
+#     url: "https://www.figma.com/proto/jxPsNRIFx6L3ASHJLx8Y1W/GoodTix-App-Designs?type=design&node-id=362-1642&t=kVDnXd11eeUci7HG-1&scaling=scale-down&page-id=362%3A1641&starting-point-node-id=362%3A1642&mode=design"
 
-  - image: "assets/images/portfolio/GoodTixCaseStudy.png"
-    url: "https://www.behance.net/gallery/156638735/GoodTix-Case-Study"
+#   - image: "assets/images/portfolio/GoodTixCaseStudy.png"
+#     url: "https://www.behance.net/gallery/156638735/GoodTix-Case-Study"
     
-# Portfolio Page
-portfolio-label:
-  - { title: "UI/UX Design", type: "design" }
-  - { title: "BRANDING", type: "branding" }
-  - { title: "ILLUSTRATION", type: "illustration" }
+# # Portfolio Page
+# portfolio-label:
+#   - { title: "UI/UX Design", type: "design" }
+#   - { title: "BRANDING", type: "branding" }
+#   - { title: "ILLUSTRATION", type: "illustration" }
 
-portfolio-items:
-  - image: "assets/images/portfolio/ConvergenceSite.png"
-    url: "https://www.figma.com/proto/ghnfZCvGlBR4Wo4BAKKq48/v2-Test-Site?type=design&node-id=42-7&t=LgFl1eOryAr6xFpY-1&scaling=min-zoom&page-id=42%3A2&mode=design"
-    portfolio-type:
-      - type: "design"
+# portfolio-items:
+#   - image: "assets/images/portfolio/ConvergenceSite.png"
+#     url: "https://www.figma.com/proto/ghnfZCvGlBR4Wo4BAKKq48/v2-Test-Site?type=design&node-id=42-7&t=LgFl1eOryAr6xFpY-1&scaling=min-zoom&page-id=42%3A2&mode=design"
+#     portfolio-type:
+#       - type: "design"
 
-  - image: "assets/images/portfolio/CoGAPSGuide.png"
-    url: "https://fertiglab.github.io/CoGAPSGuide/"
-    portfolio-type:
-      - type: "design"
+#   - image: "assets/images/portfolio/CoGAPSGuide.png"
+#     url: "https://fertiglab.github.io/CoGAPSGuide/"
+#     portfolio-type:
+#       - type: "design"
 
-  - image: "assets/images/portfolio/FertigLabSite.png"
-    url: "https://fertiglab.github.io/"
-    portfolio-type:
-      - type: "design"
+#   - image: "assets/images/portfolio/FertigLabSite.png"
+#     url: "https://fertiglab.github.io/"
+#     portfolio-type:
+#       - type: "design"
 
-  - image: "assets/images/portfolio/QSSite.png"
-    url: "https://oncologyqs.jhmi.edu/"
-    portfolio-type:
-      - type: "design"
+#   - image: "assets/images/portfolio/QSSite.png"
+#     url: "https://oncologyqs.jhmi.edu/"
+#     portfolio-type:
+#       - type: "design"
 
-  - image: "assets/images/portfolio/GoodTixPreview.png"
-    url: "https://www.figma.com/proto/jxPsNRIFx6L3ASHJLx8Y1W/GoodTix-App-Designs?type=design&node-id=362-1642&t=kVDnXd11eeUci7HG-1&scaling=scale-down&page-id=362%3A1641&starting-point-node-id=362%3A1642&mode=design"
-    portfolio-type:
-      - type: "design"
+#   - image: "assets/images/portfolio/GoodTixPreview.png"
+#     url: "https://www.figma.com/proto/jxPsNRIFx6L3ASHJLx8Y1W/GoodTix-App-Designs?type=design&node-id=362-1642&t=kVDnXd11eeUci7HG-1&scaling=scale-down&page-id=362%3A1641&starting-point-node-id=362%3A1642&mode=design"
+#     portfolio-type:
+#       - type: "design"
 
-  - image: "assets/images/portfolio/GoodTixCaseStudy.png"
-    url: "https://www.behance.net/gallery/156638735/GoodTix-Case-Study/modules/883722653"
-    portfolio-type:
-      - type: "design"
+#   - image: "assets/images/portfolio/GoodTixCaseStudy.png"
+#     url: "https://www.behance.net/gallery/156638735/GoodTix-Case-Study/modules/883722653"
+#     portfolio-type:
+#       - type: "design"
 
 #-------------------------------
 # Testimonials Section
