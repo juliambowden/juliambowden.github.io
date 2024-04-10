@@ -5,8 +5,10 @@ author: Julia Bowden
 image: assets/images/about/400x400Headshot.png
 signature: assets/images/about/jb_signature.png
 ---
-<div>Hi, there! My name is Julia Bowden; a communications professional and web designer based in Baltimore, Maryland.
-</div>
+
+
+
+Hi, there! My name is Julia Bowden; a communications professional and web designer based in Baltimore, Maryland.
 
 I'm a passionate and dedicated professional with a diverse background in communications, web design, education, customer service, and public service. I'm committed to making a positive impact through effective communication, creative problem-solving, and cultivating meaningful connections. I thrive on creative challenges and have a proven track record of delivering exceptional results in various roles throughout my professional career.
 
