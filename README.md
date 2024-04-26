@@ -1,4 +1,4 @@
-# Julia Bowden's GitHub Pages Website
+The website hub for Julia Bowden. Learn more about my work experience and my valuable contributions to the field of web design.
 
 <!-- licence -->
 ## License
