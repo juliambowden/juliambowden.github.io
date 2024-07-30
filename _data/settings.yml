@@ -119,16 +119,16 @@ experience:
 
 education-title: Education
 education:
+   - {
+       name: Google UX Design Professional Certificate,
+       date: "2024",
+       organization: "Coursera",
+     }
   - {
       name: Bachelor of Science, Psychology,
       date: "2018",
       organization: "St. Mary's College of Maryland",
     }
-  # - {
-  #     name: Honours in Fine Arts,
-  #     date: "2004",
-  #     organization: "Harvard University",
-  #   }
   # - {
   #     name: Higher Secondary Certificat,
   #     date: "2000",
